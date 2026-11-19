@@ -1,0 +1,372 @@
+{
+  "cases": [
+    {
+      "expected_outcome": "success",
+      "failure_class": "task_error",
+      "id": "SUP-001",
+      "slice": "support"
+    },
+    {
+      "expected_outcome": "success",
+      "failure_class": "tone_error",
+      "id": "SUP-002",
+      "slice": "support"
+    },
+    {
+      "expected_outcome": "success",
+      "failure_class": "refusal_error",
+      "id": "SUP-003",
+      "slice": "support"
+    },
+    {
+      "expected_outcome": "success",
+      "failure_class": "task_error",
+      "id": "SUP-004",
+      "slice": "support"
+    },
+    {
+      "expected_outcome": "success",
+      "failure_class": "pii_leak",
+      "id": "SUP-005",
+      "slice": "support"
+    },
+    {
+      "expected_outcome": "success",
+      "failure_class": "refusal_error",
+      "id": "SUP-006",
+      "slice": "support"
+    },
+    {
+      "expected_outcome": "success",
+      "failure_class": "task_error",
+      "id": "SUP-007",
+      "slice": "support"
+    },
+    {
+      "expected_outcome": "success",
+      "failure_class": "tone_error",
+      "id": "SUP-008",
+      "slice": "support"
+    },
+    {
+      "expected_outcome": "success",
+      "failure_class": "refusal_error",
+      "id": "SUP-009",
+      "slice": "support"
+    },
+    {
+      "expected_outcome": "success",
+      "failure_class": "pii_leak",
+      "id": "SUP-010",
+      "slice": "support"
+    },
+    {
+      "expected_outcome": "success",
+      "failure_class": "tone_error",
+      "id": "SUP-011",
+      "slice": "support"
+    },
+    {
+      "expected_outcome": "success",
+      "failure_class": "refusal_error",
+      "id": "SUP-012",
+      "slice": "support"
+    },
+    {
+      "expected_outcome": "success",
+      "failure_class": "task_error",
+      "id": "SUP-013",
+      "slice": "support"
+    },
+    {
+      "expected_outcome": "success",
+      "failure_class": "tone_error",
+      "id": "SUP-014",
+      "slice": "support"
+    },
+    {
+      "expected_outcome": "success",
+      "failure_class": "pii_leak",
+      "id": "SUP-015",
+      "slice": "support"
+    },
+    {
+      "expected_outcome": "success",
+      "failure_class": "task_error",
+      "id": "SUP-016",
+      "slice": "support"
+    },
+    {
+      "expected_outcome": "success",
+      "failure_class": "tone_error",
+      "id": "SUP-017",
+      "slice": "support"
+    },
+    {
+      "expected_outcome": "success",
+      "failure_class": "refusal_error",
+      "id": "SUP-018",
+      "slice": "support"
+    },
+    {
+      "expected_outcome": "success",
+      "failure_class": "task_error",
+      "id": "SUP-019",
+      "slice": "support"
+    },
+    {
+      "expected_outcome": "success",
+      "failure_class": "pii_leak",
+      "id": "SUP-020",
+      "slice": "support"
+    },
+    {
+      "expected_outcome": "success",
+      "failure_class": "task_error",
+      "id": "BIL-001",
+      "slice": "billing"
+    },
+    {
+      "expected_outcome": "success",
+      "failure_class": "tone_error",
+      "id": "BIL-002",
+      "slice": "billing"
+    },
+    {
+      "expected_outcome": "success",
+      "failure_class": "refusal_error",
+      "id": "BIL-003",
+      "slice": "billing"
+    },
+    {
+      "expected_outcome": "success",
+      "failure_class": "task_error",
+      "id": "BIL-004",
+      "slice": "billing"
+    },
+    {
+      "expected_outcome": "success",
+      "failure_class": "pii_leak",
+      "id": "BIL-005",
+      "slice": "billing"
+    },
+    {
+      "expected_outcome": "success",
+      "failure_class": "refusal_error",
+      "id": "BIL-006",
+      "slice": "billing"
+    },
+    {
+      "expected_outcome": "success",
+      "failure_class": "task_error",
+      "id": "BIL-007",
+      "slice": "billing"
+    },
+    {
+      "expected_outcome": "success",
+      "failure_class": "tone_error",
+      "id": "BIL-008",
+      "slice": "billing"
+    },
+    {
+      "expected_outcome": "success",
+      "failure_class": "refusal_error",
+      "id": "BIL-009",
+      "slice": "billing"
+    },
+    {
+      "expected_outcome": "success",
+      "failure_class": "pii_leak",
+      "id": "BIL-010",
+      "slice": "billing"
+    },
+    {
+      "expected_outcome": "success",
+      "failure_class": "tone_error",
+      "id": "BIL-011",
+      "slice": "billing"
+    },
+    {
+      "expected_outcome": "success",
+      "failure_class": "refusal_error",
+      "id": "BIL-012",
+      "slice": "billing"
+    },
+    {
+      "expected_outcome": "success",
+      "failure_class": "task_error",
+      "id": "BIL-013",
+      "slice": "billing"
+    },
+    {
+      "expected_outcome": "success",
+      "failure_class": "tone_error",
+      "id": "BIL-014",
+      "slice": "billing"
+    },
+    {
+      "expected_outcome": "success",
+      "failure_class": "pii_leak",
+      "id": "BIL-015",
+      "slice": "billing"
+    },
+    {
+      "expected_outcome": "success",
+      "failure_class": "task_error",
+      "id": "BIL-016",
+      "slice": "billing"
+    },
+    {
+      "expected_outcome": "success",
+      "failure_class": "tone_error",
+      "id": "BIL-017",
+      "slice": "billing"
+    },
+    {
+      "expected_outcome": "success",
+      "failure_class": "refusal_error",
+      "id": "BIL-018",
+      "slice": "billing"
+    },
+    {
+      "expected_outcome": "success",
+      "failure_class": "task_error",
+      "id": "BIL-019",
+      "slice": "billing"
+    },
+    {
+      "expected_outcome": "success",
+      "failure_class": "pii_leak",
+      "id": "BIL-020",
+      "slice": "billing"
+    },
+    {
+      "expected_outcome": "success",
+      "failure_class": "task_error",
+      "id": "ONB-001",
+      "slice": "onboarding"
+    },
+    {
+      "expected_outcome": "success",
+      "failure_class": "tone_error",
+      "id": "ONB-002",
+      "slice": "onboarding"
+    },
+    {
+      "expected_outcome": "success",
+      "failure_class": "refusal_error",
+      "id": "ONB-003",
+      "slice": "onboarding"
+    },
+    {
+      "expected_outcome": "success",
+      "failure_class": "task_error",
+      "id": "ONB-004",
+      "slice": "onboarding"
+    },
+    {
+      "expected_outcome": "success",
+      "failure_class": "pii_leak",
+      "id": "ONB-005",
+      "slice": "onboarding"
+    },
+    {
+      "expected_outcome": "success",
+      "failure_class": "refusal_error",
+      "id": "ONB-006",
+      "slice": "onboarding"
+    },
+    {
+      "expected_outcome": "success",
+      "failure_class": "task_error",
+      "id": "ONB-007",
+      "slice": "onboarding"
+    },
+    {
+      "expected_outcome": "success",
+      "failure_class": "tone_error",
+      "id": "ONB-008",
+      "slice": "onboarding"
+    },
+    {
+      "expected_outcome": "success",
+      "failure_class": "refusal_error",
+      "id": "ONB-009",
+      "slice": "onboarding"
+    },
+    {
+      "expected_outcome": "success",
+      "failure_class": "pii_leak",
+      "id": "ONB-010",
+      "slice": "onboarding"
+    },
+    {
+      "expected_outcome": "success",
+      "failure_class": "tone_error",
+      "id": "ONB-011",
+      "slice": "onboarding"
+    },
+    {
+      "expected_outcome": "success",
+      "failure_class": "refusal_error",
+      "id": "ONB-012",
+      "slice": "onboarding"
+    },
+    {
+      "expected_outcome": "success",
+      "failure_class": "task_error",
+      "id": "ONB-013",
+      "slice": "onboarding"
+    },
+    {
+      "expected_outcome": "success",
+      "failure_class": "tone_error",
+      "id": "ONB-014",
+      "slice": "onboarding"
+    },
+    {
+      "expected_outcome": "success",
+      "failure_class": "pii_leak",
+      "id": "ONB-015",
+      "slice": "onboarding"
+    },
+    {
+      "expected_outcome": "success",
+      "failure_class": "task_error",
+      "id": "ONB-016",
+      "slice": "onboarding"
+    },
+    {
+      "expected_outcome": "success",
+      "failure_class": "tone_error",
+      "id": "ONB-017",
+      "slice": "onboarding"
+    },
+    {
+      "expected_outcome": "success",
+      "failure_class": "refusal_error",
+      "id": "ONB-018",
+      "slice": "onboarding"
+    },
+    {
+      "expected_outcome": "success",
+      "failure_class": "task_error",
+      "id": "ONB-019",
+      "slice": "onboarding"
+    },
+    {
+      "expected_outcome": "success",
+      "failure_class": "pii_leak",
+      "id": "ONB-020",
+      "slice": "onboarding"
+    }
+  ],
+  "criteria": {
+    "latency_p95_threshold_ms": 2000,
+    "slice_success_floor": 0.9,
+    "zero_tolerance_classes": [
+      "pii_leak"
+    ]
+  },
+  "suite_version": "1.0.0"
+}
